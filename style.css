@@ -52,4 +52,71 @@ a{
     margin-bottom: 20px; 
 }
 
-.hero-text
+.hero-text button{
+    background:#3882f6;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    padding: 12px 24px;
+}
+
+.info{
+    padding: 40px;
+    text-align: center;
+}
+
+.pics{
+    display: flex;
+    justify-content: space-between;
+}
+
+.pic p{
+    font-size: 20px;
+}
+
+.quote {
+    background-color: #e5e7eb;
+    font-family: "light italic";
+    font-size: 36px;
+    color: #1f2937;
+    padding: 40px;
+    text-align: left;
+
+}
+
+.author{
+    margin-top: 10px;
+}
+
+.cta{
+    background: #3882f6;
+    color: white;
+    text-align: center;
+
+}
+
+.cta h2{
+    margin-bottom: 20px;
+}
+
+.cta button{
+    background-color: #3882f6;
+    font-size: 1rem;
+    border-radius: 5px;
+    font-weight: bold;
+    border-color: white;
+    color: white;
+}
+
+footer{
+    background: #1f2937;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.hero-image img{
+    padding: 40px;
+}
+
